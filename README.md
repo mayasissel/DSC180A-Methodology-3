@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Maya Sissel
-msissel@ucsd.edu
+Maya Sissel and Genevieve Selsor
